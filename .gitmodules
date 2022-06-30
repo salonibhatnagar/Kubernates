@@ -1,3 +1,6 @@
 [submodule "k8s-deployment-frontend-backend1"]
 	path = k8s-deployment-frontend-backend1
 	url = https://github.com/salonibhatnagar/k8s-deployment-frontend-backend1.git
+[submodule "Kubernates-deployment"]
+	path = Kubernates-deployment
+	url = https://github.com/salonibhatnagar/Kubernates-deployment.git
