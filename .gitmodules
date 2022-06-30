@@ -4,3 +4,6 @@
 [submodule "Kubernates-deployment"]
 	path = Kubernates-deployment
 	url = https://github.com/salonibhatnagar/Kubernates-deployment.git
+[submodule "k8s-springboot-mysql-project"]
+	path = k8s-springboot-mysql-project
+	url = https://github.com/salonibhatnagar/k8s-springboot-mysql-project.git
